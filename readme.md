@@ -3,9 +3,9 @@
 
 ## 引数
 <dl>
-    <dt>expls.exe last</dl>
+    <dt>expls.exe last</dt>
     <dd>最後にアクティブになったエクスプローラのパスを出力します</dd>
-    <dt>expls.exe all</dl>
+    <dt>expls.exe all</dt>
     <dd>すべてのエクスプローラのパスの一覧を表示します。</dd>
     <dt>expls.exe</dt>
     <dd>expls.exe lastと同様</dd>
